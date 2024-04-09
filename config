@@ -1,0 +1,2 @@
+--recode-video mp4 --keep-video -o
+'~/Downloads/yt-dlp/%(title)s-%(id)s.%(ext)s'
